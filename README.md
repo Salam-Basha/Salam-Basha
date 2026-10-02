@@ -31,7 +31,7 @@ I'm also interested in **Artificial Intelligence, AI tools, and emerging technol
 
 I'm documenting my Python learning journey here:
 
-🐍 **[Python Learning](https://github.com/Salam-Bash/python-learning)**
+🐍 **[Python Learning](https://github.com/Salam-Basha/python-learning)**
 
 ---
 
