@@ -23,7 +23,7 @@ I'm also interested in **Artificial Intelligence, AI tools, and emerging technol
 - 🐍 Python
 - 💻 Programming Fundamentals
 - 🤖 Artificial Intelligence
-- 🧠 Exploring AI Tools
+
 
 ---
 
