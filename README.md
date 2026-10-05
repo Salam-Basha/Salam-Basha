@@ -1,5 +1,5 @@
 
-# Hi, I'm Salam 👋
+# Hi, I am Salam 👋
 
 🎓 B.Tech Student  
 🐍 Currently learning Python  
