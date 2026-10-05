@@ -1,7 +1,7 @@
 
 # Hi, I am Salam 👋
 
-🎓 B.Tech Student.
+🎓 B.Tech Student. 
 🐍 Currently learning Python  
 💻 Interested in Technology & Software Development  
 🤖 Exploring AI, AI Tools 
